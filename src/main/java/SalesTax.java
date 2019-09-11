@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-import static javax.swing.text.html.HTML.Tag.S;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
